@@ -21,4 +21,4 @@ During EDA I will create several visuals that will explore the relationships bet
 
 I would like to take my forecast and create an interactive visual that will allow the user to estimate the gross profit and score for any year in the future, given this dataset. 
 
-The project output at this time is a written report/blog post that will discuss my findings, however, if time permits, I would like to look at creating an R Markdown Website to share my results.
+The project output at this time is a written report/blog post that will discuss my findings, however, if time permits, I would like to look at creating an R Markdown Webpage to share my results.
